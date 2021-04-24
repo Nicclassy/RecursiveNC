@@ -1,0 +1,6 @@
+This is Recursive Noughts and Crosses. Your objective is to place three of your mark (noughts or crosses) in a row, diagonally, vertically or horizontally to win. This is the same as the regular Noughts and Crosses.
+However, there is a twist. Inside of each cell of the parent game is child game of Noughts and Crosses. Marks are only played in child games.
+When playing your turn, your turn must be in the same parent cell as the cell that was played in on the child game. A parent cell is considered played when it has been won or drawn.
+There are exceptions to this. If the cell played in the child game has already been played in the parent game, then the turn can be played anywhere. The first move of the game can also be played anywhere.
+To play multiplayer (different devices), make sure one device is hosting the server then join with the other device. Only one game can be hosted per network.
+Happy playing and good luck!

@@ -1,0 +1,4 @@
+#!/bin/bash
+path=$( cd ${0%/*} && pwd -P )
+cd $path
+python3 multiplayer/server.py
